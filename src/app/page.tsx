@@ -11,7 +11,7 @@ import Discountitem from './components/Discountitems';
 // import Category from './components/shoplist';
 import Blog from './components/Blog';
 import Footer from './components/footer';
-import ShopList from './components/shoplist';
+// import ShopList from './components/shoplist';
 
 
 

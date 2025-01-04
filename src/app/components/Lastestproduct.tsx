@@ -1,5 +1,5 @@
 import React from "react";
-const categories = ["New Arrival", "Best Seller", "Featured", "Special Offer"];
+// const categories = ["New Arrival", "Best Seller", "Featured", "Special Offer"];
 const products = [
   {
     id: 1,
